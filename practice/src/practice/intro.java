@@ -25,7 +25,7 @@ public class intro {
 		driver.findElement(By.cssSelector("img.Hq")).click();
 		driver.findElement(By.cssSelector("input.agP")).sendKeys("adithyankumar.92@gmail.com");
 		String body;   
-		body = "hi System.setProperty(\"Webdriver.chrome.driver\", \"D:\\\\selenium-java\\\\chromedriver\\\\chromedriver.exe\");\r\n"
+		body = "hii System.setProperty(\"Webdriver.chrome.driver\", \"D:\\\\selenium-java\\\\chromedriver\\\\chromedriver.exe\");\r\n"
 				+ "		WebDriver driver = new ChromeDriver();\r\n"
 				+ "		\r\n"
 				+ "		driver.get(\"https://www.google.com/intl/en-GB/gmail/about/\");\r\n"
